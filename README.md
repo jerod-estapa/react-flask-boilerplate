@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React-Redux-Flask #
 
 Boilerplate application for a Flask JWT Backend and a React/Redux Front-End with Material UI.
@@ -137,3 +138,6 @@ $ npm start
 
 
 
+=======
+# react-flask-boilerplate
+>>>>>>> 7ce10de64b90ab6b701e27f03b2c8fc076beab0e
